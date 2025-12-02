@@ -1,0 +1,6 @@
+A = input("Enter a number for A: ")
+B = input("Enter a number for B: ")
+C = input("Enter a number for C: ")
+print(f'New value of A: {B} ')
+print(f'New value of B: {C} ')
+print(f'New value of C: {A} ')
